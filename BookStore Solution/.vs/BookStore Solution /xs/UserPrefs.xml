@@ -1,16 +1,18 @@
 ﻿<Properties StartupConfiguration="{2A60584A-EA97-40AF-BDA6-66F74065B18B}|Default">
+  <MonoDevelop.Ide.ItemProperties.BookStore PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="BookStore/Controllers/BookController.cs">
     <Files>
       <File FileName="BookStore/Program.cs" />
-      <File FileName="BookStore/Controllers/BookController.cs" Line="74" Column="27" />
+      <File FileName="BookStore/Controllers/BookController.cs" Line="111" Column="37" />
       <File FileName="BookStore/appsettings.json" />
-      <File FileName="BookStore/Repository/BookRepository.cs" Line="40" Column="1" />
+      <File FileName="BookStore/Repository/BookRepository.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BookStore Solution " expanded="True">
+          <Node name="BookStore Solution ">
             <Node name="NuGet.Config files" expanded="True" />
             <Node name="BookStore" expanded="True">
               <Node name="Dependencies" expanded="True" />
@@ -24,10 +26,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BookStore PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
