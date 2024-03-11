@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sabrinal-saidi/Desktop/OsosProjects/BookStore/BookStore Solution/BookStore/BookStore.csproj": {}
+    "/Users/sabrinal-saidi/Desktop/OsosProjects/BookStoreFullProject/BookStore Solution/BookStore/BookStore.csproj": {}
   },
   "projects": {
-    "/Users/sabrinal-saidi/Desktop/OsosProjects/BookStore/BookStore Solution/BookStore/BookStore.csproj": {
+    "/Users/sabrinal-saidi/Desktop/OsosProjects/BookStoreFullProject/BookStore Solution/BookStore/BookStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sabrinal-saidi/Desktop/OsosProjects/BookStore/BookStore Solution/BookStore/BookStore.csproj",
+        "projectUniqueName": "/Users/sabrinal-saidi/Desktop/OsosProjects/BookStoreFullProject/BookStore Solution/BookStore/BookStore.csproj",
         "projectName": "BookStore",
-        "projectPath": "/Users/sabrinal-saidi/Desktop/OsosProjects/BookStore/BookStore Solution/BookStore/BookStore.csproj",
+        "projectPath": "/Users/sabrinal-saidi/Desktop/OsosProjects/BookStoreFullProject/BookStore Solution/BookStore/BookStore.csproj",
         "packagesPath": "/Users/sabrinal-saidi/.nuget/packages/",
-        "outputPath": "/Users/sabrinal-saidi/Desktop/OsosProjects/BookStore/BookStore Solution/BookStore/obj/",
+        "outputPath": "/Users/sabrinal-saidi/Desktop/OsosProjects/BookStoreFullProject/BookStore Solution/BookStore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sabrinal-saidi/.nuget/NuGet/NuGet.Config"

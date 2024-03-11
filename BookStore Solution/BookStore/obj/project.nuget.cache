@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tmd+2rM8nXo1/SA0O8BHTBPw9ZOJtIx2wC3RuC1J/TawEw1DxDjWSWBO8GMjKwTvH7oa1e1kr38lhlBxGvSlVA==",
+  "dgSpecHash": "7fJSxV/XkLcm0kpHvMVp+UG5rMlhXmAQ0NAiYL6enQcTlwlx+RLJJSdPbgstkNBV5IKii/3GDHMvL6SYU//9DA==",
   "success": true,
-  "projectFilePath": "/Users/sabrinal-saidi/Desktop/OsosProjects/BookStore/BookStore Solution/BookStore/BookStore.csproj",
+  "projectFilePath": "/Users/sabrinal-saidi/Desktop/OsosProjects/BookStoreFullProject/BookStore Solution/BookStore/BookStore.csproj",
   "expectedPackageFiles": [
     "/Users/sabrinal-saidi/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/sabrinal-saidi/.nuget/packages/microsoft.aspnet.webapi.client/6.0.0/microsoft.aspnet.webapi.client.6.0.0.nupkg.sha512",
